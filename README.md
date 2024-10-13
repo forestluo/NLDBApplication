@@ -1,4 +1,4 @@
-# NLPApplication
+# NLDBApplication
 
  基于NLDB v2和v3的数据处理程序。主要是实现断句，分词和词性检测等功能。
 
